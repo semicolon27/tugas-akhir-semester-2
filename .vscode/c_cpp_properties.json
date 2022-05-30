@@ -1,0 +1,19 @@
+{
+    "configurations": [{
+        "name": "MinGW",
+        "intelliSenseMode": "gcc-x86",
+        "compilerPath": "D:/Programs/KF-MinGW/bin/g++.exe/bin/g++.exe",
+        "includePath": [
+            "${workspaceFolder}/**",
+            "D:/Programs/KF-MinGW/bin/g++.exe/include/**",
+            "D:/Programs/KF-MinGW/bin/g++.exe/i686-w64-mingw32/include/**"
+        ],
+        "defines": [
+            "_DEBUG",
+            "UNICODE"
+        ],
+        "cStandard": "gnu99",
+        "cppStandard": "gnu++98"
+    }],
+    "version": 4
+}
